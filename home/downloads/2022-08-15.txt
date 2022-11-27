@@ -1,0 +1,12 @@
+
+1660526429577 :: get_profile :: J1FYPHMZMF-100:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkuZnllcnMuaW4iLCJpYXQiOjE2NjA1MjY0MjcsImV4cCI6MTY2MDYwOTgyNywibmJmIjoxNjYwNTI2NDI3LCJhdWQiOlsieDowIiwieDoxIiwieDoyIiwiZDoxIiwiZDoyIiwieDoxIiwieDowIl0sInN1YiI6ImFjY2Vzc190b2tlbiIsImF0X2hhc2giOiJnQUFBQUFCaS1aOWJKTGtjUUd0OUdBc3ZFSkdJTVV1WTdRS0pDdW9yanFPTU9EdG9qWko1UnZXcmF0UDdHdDdWOXJoYVhHUmUwOVRndWRreXBZVkQ5UGo4SGRzX3FrZjJVMTdFMTEyS2k0Y0NBeUs2S2RJTHVhOD0iLCJkaXNwbGF5X25hbWUiOiJTQU5UT1NIIEJBQkFOIFNBV0FOVCIsImZ5X2lkIjoiWFM0MTUwOCIsImFwcFR5cGUiOjEwMCwicG9hX2ZsYWciOiJOIn0.fbt0G68xmRgzETQXlRbKvqKvCu9nML4AT8yKEUO0GXw :: 1660526430578 :: {'s': 'ok', 'code': 200, 'message': '', 'data': {'fy_id': 'XS41508', 'name': 'SANTOSH BABAN SAWANT', 'image': None, 'display_name': 'SS', 'pin_change_date': '07-03-2022 22:39:28', 'email_id': 'sawantsb@gmail.com', 'pwd_change_date': '07-03-2022 22:38:29', 'PAN': '---------', 'pwd_to_expire': -10}}
+
+1660526430594 :: funds :: None :: 1660526431746 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1660526431746 :: holdings :: None :: 1660526432837 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1660526432837 :: tradebook :: None :: 1660526433970 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1660526433970 :: orderBook ::  :: 1660526435070 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1660526435070 :: positions ::  :: 1660526436160 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}

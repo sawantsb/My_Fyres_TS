@@ -1,0 +1,14 @@
+{
+  "RivWeekKey_M": "22SEP",
+  "RivWeekKey_M": "22O20",
+  "RivWeekKey4": "22N03",
+  "RivWeekKeyM": "22N03",
+  "RivWeekKey": "22D01",
+  "RivST1QTY": "25",
+  "RivWeekKey_W": "22922",
+  "client_id": "J1FYPHMZMF-100",
+  "secret_key": "72RNWQQY61",
+  "grant_type": "authorization_code",
+  "response_type": "code",
+  "redirect_uri": "https://127.0.0.1"
+}
